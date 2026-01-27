@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: sans-serif;
 }
 body{
     background-color: #0d9f0d;
@@ -21,4 +22,22 @@ body{
 .LemonBottle{
     width: 800px;
     margin-left: 1100px;
+}
+.headerNav{
+    display: flex;
+    gap: 150px;
+    list-style: none;
+    font-size: 20px;
+    margin-left: 70px;
+    position: absolute;
+    margin-top: 50px;
+}
+.headerNav li a{
+    text-decoration: none;
+    color: #d5ffb3;
+    font-weight: bold;
+    transition: 0.5s;
+}
+.headerNav li a:hover{
+    color: white;
 }
