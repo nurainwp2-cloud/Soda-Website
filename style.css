@@ -1,3 +1,11 @@
+@font-face {
+    font-family: 'Anton';
+    src: url(Fonts/Anton/Anton-Regular.ttf);
+}
+@font-face {
+    font-family: Berlin;
+    src: url(Fonts/BRLNSDB.TTF);
+}
 *{
     margin: 0;
     padding: 0;
@@ -41,3 +49,4 @@ body{
 .headerNav li a:hover{
     color: white;
 }
+
