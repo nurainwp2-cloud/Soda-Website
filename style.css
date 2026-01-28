@@ -95,3 +95,20 @@ body{
     color: #003900;
     transition: 0.5s;
 }
+.search{
+    position: absolute;
+    margin-left: 1000px;
+    margin-top: -10px;
+    padding: 15px;
+    padding-right: 320px;
+    border-radius: 10px;
+}
+.searchImg{
+    position: absolute;
+    width: 35px;
+    margin-left: 1450px;
+    margin-top: -5px;
+    cursor: pointer;
+    background-color: rgb(255, 255, 255);
+    border-radius: 50%;
+}
