@@ -78,3 +78,20 @@ body{
     color: white;
     transition: 0.5s;
 }
+.LearnButton{
+    position: absolute;
+    background-color: #006e00;
+    font-family: 'Anton', sans-serif;
+    color: #ffffff;
+    font-size: 35px;
+    text-decoration: none;
+    margin-top: 380px;
+    margin-left: 320px;
+    padding: 15px;
+    border-radius: 20px;
+}
+.LearnButton:hover{
+    background-color: rgb(204, 255, 167);
+    color: #003900;
+    transition: 0.5s;
+}
