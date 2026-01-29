@@ -30,6 +30,7 @@ body{
 .LemonBottle{
     width: 800px;
     margin-left: 1100px;
+    position: absolute;
 }
 .headerNav{
     display: flex;
@@ -111,4 +112,22 @@ body{
     cursor: pointer;
     background-color: rgb(255, 255, 255);
     border-radius: 50%;
+}
+.chocBtn{
+    position: absolute;
+    color: white;
+    background-color: chocolate;
+    margin-left: 240px;
+    padding: 20px;
+    font-family: 'Berlin';
+    font-size: 15px;
+}
+.lemonBtn{
+    margin-left: 20px;
+    position: absolute;
+    padding: 20px;
+    background-color: #0d9f0d;
+    color: white;
+     font-family: 'Berlin';
+    font-size: 15px;
 }
