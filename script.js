@@ -16,7 +16,7 @@ function changeTheme() {
     home.style.color = "white"
     about.style.color = "white"
     contact.style.color = "white"
-    products.style.color = "white"
+    products.style.color = "#fff"
     
 
 }
