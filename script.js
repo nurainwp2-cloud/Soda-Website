@@ -13,7 +13,7 @@ function changeTheme() {
     body.style.backgroundColor = "#33200d"
     homePageBack.style.backgroundColor = "#4a3623"
     header.style.backgroundColor = "#3f1f00"
-    home.style.color = "#fffe"
+    home.style.color = "#fff"
     about.style.color = "#fff"
     contact.style.color = "#fff"
     products.style.color = "#fff"
