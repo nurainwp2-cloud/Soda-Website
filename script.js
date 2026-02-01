@@ -26,7 +26,6 @@ function changeTheme() {
     buyBtn.style.color = "#5e4429"
     buyBtn.style.backgroundColor = "#fff"
 }
-
 function Lemon(){
     lemonBottle.style.zIndex = "100"
     chocbottle.style.zIndex = "1"
