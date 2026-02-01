@@ -77,6 +77,7 @@ body{
 .buyButton:hover{
     background-color: #3b8800;
     color: white;
+    transform: translateY(-20px);
     transition: 0.5s;
 }
 .LearnButton{
@@ -94,6 +95,7 @@ body{
 .LearnButton:hover{
     background-color: rgb(204, 255, 167);
     color: #003900;
+    transform: translateY(-20px);
     transition: 0.5s;
 }
 .search{
@@ -116,18 +118,22 @@ body{
 .chocBtn{
     position: absolute;
     color: white;
-    background-color: chocolate;
-    margin-left: 240px;
+    background-color: rgb(121, 50, 0);
+    margin-top: -15px;
+    margin-left: 1550px;
     padding: 20px;
     font-family: 'Berlin';
     font-size: 15px;
+    width: 250px;
 }
 .lemonBtn{
-    margin-left: 20px;
+     margin-top: -15px;
+    margin-left: 1550px;
     position: absolute;
     padding: 20px;
-    background-color: #0d9f0d;
+    background-color: #007900;
     color: white;
      font-family: 'Berlin';
     font-size: 15px;
+    width: 250px;
 }
