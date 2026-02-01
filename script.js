@@ -25,14 +25,9 @@ function changeTheme() {
     lemonBtn.style.zIndex = "200"
     buyBtn.style.color = "#5e4429"
     buyBtn.style.backgroundColor = "#fff"
-    
-    
-    
-
 }
-function Lemon(){
 
-    
+function Lemon(){
     lemonBottle.style.zIndex = "100"
     chocbottle.style.zIndex = "1"
     location.reload()
