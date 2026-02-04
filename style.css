@@ -151,6 +151,7 @@ body{
     height: 400px;
     border-radius: 20px;
     background-color: rgb(31, 31, 31);
+    transition: 0.4s;
 }
 .aboutNav li span img{
   width: 400px;
@@ -158,23 +159,53 @@ body{
    align-items: center;
 }
 .chocolateFlavour{
+    transition: 0.4s;
     opacity: 0;
 }
 .OreoFlavour{
+    transition: 0.4s;
     opacity: 0;
 }
 .StrawberryText{
+    transition: 0.4s;
     opacity: 0;
 }
 .priceOreo{
+    transition: 0.4s;
     opacity: 0;
 }
 .priceChocolate{
+    transition: 0.4s;
     opacity: 0;
 }
 .priceStrawberry{
+    transition: 0.4s;
     opacity: 0;
 }
 .aboutNav .img1:hover span{
     height: 500px;
+    padding: 2px;
+}
+.aboutNav .img1:hover span p{
+    opacity: 1;
+    color: white;
+    font-size: 20px;
+}
+.aboutNav .img2:hover span{
+    height: 500px;
+    padding: 2px;
+}
+.aboutNav .img2:hover span p{
+    opacity: 1;
+    color: white;
+    font-size: 20px;
+}
+.aboutNav .img3:hover span{
+    height: 500px;
+    padding: 2px;
+}
+.aboutNav .img3:hover span p{
+    opacity: 1;
+    color: white;
+    font-size: 20px;
 }
