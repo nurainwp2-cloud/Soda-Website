@@ -232,7 +232,8 @@ body{
     flex-basis: 60%;
 }
 .contact-left p{
-    margin-top: 30px;
+    margin-top: 50px;
+    color: white;
 
 }
 .contact-left p i{
@@ -296,4 +297,23 @@ body{
     color: white;
     font-size: 18px;
     border-radius: 6px;
+}
+.final{
+    margin-top: 800px;
+    margin-left: 30px;
+}
+
+.back{
+    background-color: #151515;
+}
+.sub-title{
+    color: white;
+    margin-top: 10px;
+}
+.copy{
+    width: 100%;
+    color: #acacac;
+    text-align: center;
+    padding: 15px 0;
+    background: #161616;
 }
